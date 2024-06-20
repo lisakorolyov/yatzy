@@ -20,5 +20,4 @@ function onRollClick() {
             rollBtn.disabled = true;
         }
     }
-
 }

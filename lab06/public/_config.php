@@ -31,3 +31,5 @@ spl_autoload_register(function ($fullName) {
       require_once $GLOBALS["appDir"] . "/models/{$className}.php";
     }
 });
+
+?>
